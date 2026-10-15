@@ -1,3 +1,5 @@
+<img width="1024" height="381" alt="image" src="https://github.com/user-attachments/assets/5e612638-6c76-4b19-904b-00bef269dc62" />
+
 Hi, I'm Muhit Ahmed 👋
 
 Full-Stack Web Developer
@@ -42,35 +44,36 @@ Authentication: JWT
 
 1. DistrictFix
 
-A service-management platform project focused on connecting customers with local service providers.
+A district-based service management platform that connects customers with service holders and workers. Features include role-based access control, service request management, district-based assignments, worker tracking, and bKash payment integration.
 
-Technologies: Next.js / TypeScript / Prisma / PostgreSQL (confirm against your actual repository)
+Technologies: Next.js, TypeScript, Tailwind CSS, shadcn/ui, Node.js, Express.js, PostgreSQL, Prisma, Redis, bKash
 
-Live Demo: Not available yet
+Live Demo: https://district-fix-fontend-a7-nine.vercel.app/
 
-Repository: [Add repository link]
+Repository: https://github.com/Muhit4312/District-Fix-FontendA7, https://github.com/Muhit4312/DistrictFixA6
 
-2. RentNest
+### 2. RentNest
 
-A web development project.
+**Project Overview**
 
-Technologies: Add the technologies used in this project.
+RentNest is a rental property platform that connects tenants with landlords, making it easy to discover properties, submit rental requests, and complete payments through a seamless and transparent rental experience.
 
-Live Demo: Not available yet
+**Key Features**
+- Property listings with location-based search
+- Detailed property pages with pricing and rental information
+- Featured properties and rental recommendations
+- Rental requests with landlord approval workflows
+- Stripe payment integration
+- Responsive design for desktop and mobile devices
 
-Repository: [Add repository link]
+**Technologies**
 
-3. Another Project
+Next.js · TypeScript · Tailwind CSS · shadcn/ui · Node.js · Express.js · PostgreSQL · Prisma · Redis · Stripe
 
-Add your third client-side project here.
+**Live Demo:** https://rent-next-fontend-l7-a5-livid.vercel.app/
+**Repository:** https://github.com/Muhit4312/RentNest-A4, https://github.com/Muhit4312/RentNext-Fontend-L7A5
 
-Overview: Briefly describe what the application does.
 
-Technologies: Add the actual technologies used.
-
-Live Demo: Not available yet
-
-Repository: [Add repository link]
 
 
 🤝 Connect With Me
