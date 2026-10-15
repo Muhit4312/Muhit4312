@@ -72,16 +72,6 @@ Live Demo: Not available yet
 
 Repository: [Add repository link]
 
-📊 GitHub Statistics
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Muhit4312&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhit4312&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=Muhit4312&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
 
 🤝 Connect With Me
 
